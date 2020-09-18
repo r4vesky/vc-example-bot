@@ -13,7 +13,7 @@
   "dependencies": {
     "@vk-io/hear": "^1.0.2",
     "dotenv": "^8.2.0",
-    "vine-coin-plus": "^1.0.0-alpha",
-    "vk-io": "^4.0.2"
+    "vk-io": "^4.0.2",
+    "vine-coin-plus": "^1.0.0-alpha"
   }
 }
