@@ -1,0 +1,19 @@
+{
+  "name": "vc-example-bot",
+  "description": "Vine Coin Example Bot 🤖",
+  "main": "index.js",
+  "scripts": {
+    "start": "cross-env TOKEN=\"xxx\" GROUP_ID=12345 index.js"
+  },
+  "author": {
+    "name": "Ivan Ravesky",
+    "email": "r4vesky@gmail.com",
+    "url": "https://github.com/r4vesky"
+  },
+  "dependencies": {
+    "@vk-io/hear": "^1.0.2",
+    "dotenv": "^8.2.0",
+    "vine-coin-plus": "^1.0.0-alpha",
+    "vk-io": "^4.0.2"
+  }
+}
